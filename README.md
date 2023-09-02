@@ -61,6 +61,8 @@ document.getElementsByName("image_height")[0].value = 1;
 ```
 9) Rights and ownership - I certify that I created this artwork
 10) Now press save and continue
+<br>
+<br>
 
 ## Applying the Artwork
 Artwork showcase would need to be purchased from point shop and you would need to be at a specific steam level to unlock it.
