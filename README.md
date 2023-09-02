@@ -65,7 +65,7 @@ document.getElementsByName("image_height")[0].value = 1;
 <br>
 
 ## Applying the Artwork
-Artwork showcase would need to be purchased from point shop and you would need to be at a specific steam level to unlock it.
+Artwork showcase would need to be purchased from point shop.
 1) Go to your profile - Edit Profile - Featured Showcase - Choose artwork showcase(could rearrange to whatever)
 2) Now choose the gifs you uploaded
 
